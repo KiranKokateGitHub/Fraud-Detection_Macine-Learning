@@ -6,6 +6,8 @@ Candidates can use whatever method they wish to develop their machine learning m
 calibration data and tested on the validation data. This case requires both statistical analysis and creativity/judgment. We recommend you spend time on both fine-tuning
 and interpreting the results of your machine learning model.
 
+dataset link is here https://drive.google.com/file/d/1Ll3vzU1yut3sHZV5tbAJY74Ac9E3z-Vb/view?usp=drive_link
+
 Data Dictionary:
 
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
